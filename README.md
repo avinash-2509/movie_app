@@ -1,4 +1,4 @@
-🎬 Movie Search App
+## 🎬 Movie Search App
 
 A full-stack movie search application built with **React (Vite)** and **Appwrite** as the backend.
 
