@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import { useDebounce } from 'react-use'
 
 import './App.css'
-import Search from './components/search'
+import Search from './components/Search'
 import MovieCard from './components/MovieCard'
 import { getTrendingMovies, updateSearchCount } from '../appwrite'
 
