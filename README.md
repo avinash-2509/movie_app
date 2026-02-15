@@ -1,5 +1,12 @@
 ## 🎬 Movie Search App
+---
 
+
+
+**Live App:**  
+https://movie-app-eta-navy.vercel.app/
+
+---
 A full-stack movie search application built with **React (Vite)** and **Appwrite** as the backend.
 
 Users can:
